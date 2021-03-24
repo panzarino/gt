@@ -1,0 +1,45 @@
+[submodule "phys2211"]
+	path = phys2211
+	url = git@github.com:panzarino/phys2211.git
+[submodule "cs1331"]
+	path = cs1331
+	url = git@github.com:panzarino/cs1331.git
+[submodule "cs1332"]
+	path = cs1332
+	url = git@github.com:panzarino/cs1332.git
+[submodule "cs-2340"]
+	path = cs-2340
+	url = git@github.com:panzarino/cs-2340.git
+[submodule "cs2340"]
+	path = cs2340
+	url = git@github.com:panzarino/cs2340.git
+[submodule "cs2110"]
+	path = cs2110
+	url = git@github.com:panzarino/cs2110.git
+[submodule "cs2200"]
+	path = cs2200
+	url = git@github.com:panzarino/cs2200.git
+[submodule "cs3600"]
+	path = cs3600
+	url = git@github.com:panzarino/cs3600.git
+[submodule "cs4400"]
+	path = cs4400
+	url = git@github.com:panzarino/cs4400.git
+[submodule "cs4235"]
+	path = cs4235
+	url = git@github.com:panzarino/cs4235.git
+[submodule "cs4641"]
+	path = cs4641
+	url = git@github.com:panzarino/cs4641.git
+[submodule "cs4510"]
+	path = cs4510
+	url = git@github.com:panzarino/cs4510.git
+[submodule "cs4261"]
+	path = cs4261
+	url = git@github.com:panzarino/cs4261.git
+[submodule "cs4261-1"]
+	path = cs4261-1
+	url = git@github.com:panzarino/cs4261-1.git
+[submodule "cs4731"]
+	path = cs4731
+	url = git@github.com:panzarino/cs4731.git
